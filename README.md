@@ -91,7 +91,7 @@ En Afrique subsaharienne, et notamment au Bénin, les décisions d'irrigation re
 - Des **sols souvent sableux** (ferrallitiques, lixisols) à faible capacité de rétention ;
 - Le **manque d'outils adaptés** aux contraintes locales.
 
-L'irrigation goutte-à-goutte est une solution prometteuse, mais son efficacité dépend de la dynamique du **bulbe d'humectation**? une zone d'humidité localisée que les méthodes traditionnelles ne peuvent pas gérer finement.
+L'irrigation goutte-à-goutte est une solution prometteuse, mais son efficacité dépend de la dynamique du **bulbe d'humectation** une zone d'humidité localisée que les méthodes traditionnelles ne peuvent pas gérer finement.
 
 ### 📊 État de l'art et positionnement
 
