@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Logo/aquatwinDrip.png" alt="AquaTwin-Drip Logo" width="500"/>
+  <img src="Logo/aquatwinDrip.png" alt="AquaTwin-Drip Logo" width="300"/>
   <h1>🌱 AquaTwin-Drip <sup><span style="font-size: 16px; background-color: #f0f0f0; padding: 2px 8px; border-radius: 4px;">v1.0.0</span></sup></h1>
   <p><strong>Jumeau numérique Hybrid AquaTwin-Drip pour le pilotage de l'irrigation goutte-à-goutte</strong></p>
   <p>Irrigation goutte à goutte • AquaCrop • Solveur 2D axisymétrique • Couplage bidirectionnel fort • Data-Driven AI • Volumes finis en dualité discrète</p>
