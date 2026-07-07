@@ -1,6 +1,6 @@
 function appreciation=EvaluerRendement(culture, rendement)
 
-% EvaluerRendement : Evaluons la qualite d'un rendement agricole.
+% EvaluerRendement : Evaluation la qualite d'un rendement agricole.
 culture = lower(strtrim(culture));
 
 switch culture
